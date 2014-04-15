@@ -12,7 +12,6 @@ public class SecondActivity extends Activity implements View.OnClickListener {
     
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        // TODO Auto-generated method stub
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
         button1 = (Button) findViewById(R.id.button1);

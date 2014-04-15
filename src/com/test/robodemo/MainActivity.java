@@ -63,7 +63,6 @@ public class MainActivity extends Activity implements View.OnClickListener{
             SystemClock.sleep(1000);
         }
     }
-
     @Override
     public void onClick(View v) {
        //发送事件
